@@ -1,0 +1,3 @@
+*.json
+crawldata/__pycache__
+crawldata/spiders/__pycache__
